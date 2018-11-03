@@ -1,0 +1,93 @@
+<background>
+  <starttime>
+    <year>2000</year>
+    <month>01</month>
+    <day>01</day>
+    <hour>06</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+  <!-- new image every hour from 06 - 21 --> 
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-night.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-07.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-07.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-08.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-08.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-09.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-09.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-10.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-10.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-11.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-11.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-12.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-12.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-13.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-13.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-14.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-14.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-15.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-15.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-16.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-16.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-17.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-17.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-18.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-18.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-19.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-19.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-20.jpg</to>
+  </transition>
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/mojave/mojave_dynamic-20.jpg</from>
+    <to>/usr/share/backgrounds/mojave/mojave_dynamic-night.jpg</to>
+  </transition>
+  <!-- static night image 21 - 06 -->
+  <static>
+    <duration>32400.0</duration>
+    <file>/usr/share/backgrounds/mojave/mojave_dynamic-night.jpg</file>
+  </static>
+</background>
+
