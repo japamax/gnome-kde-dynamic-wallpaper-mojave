@@ -65,7 +65,7 @@
   </transition>
   <transition type="overlay">
     <duration>4800.0</duration>
-    <from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1500.jpg</from>
+    <from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1600.jpg</from>
     <to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1720.jpg</to>
   </transition>
   <transition type="overlay">
