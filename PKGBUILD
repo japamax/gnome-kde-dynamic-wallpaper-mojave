@@ -7,7 +7,7 @@ arch=('any')
 url="https://github.com/japamax/${_gitname}"
 pkgdesc="GNOME time based Mojave wallpaper real scheludes"
 depends=(gnome-shell gnome-backgrounds)
-conflicts=('${_gitname}')
+conflicts=('gnome-mojave-timed-wallpaper')
 source=("git+https://github.com/japamax/${_gitname}")
 sha256sums=('SKIP')
 
