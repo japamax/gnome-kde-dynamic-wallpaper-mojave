@@ -15,6 +15,7 @@ pkgver() {
   cd ${_gitname}"
   git describe --tags --long | sed -r 's/^v//;s/([^-]*-g)/r\1/;s/-/./g'
 }
+
 package() {
   cd "${srcdir}/${_gitname}"
   install -dm755 "${pkgdir}/usr/share/backgrounds/gnome/mojave"
