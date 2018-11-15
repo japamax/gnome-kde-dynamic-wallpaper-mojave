@@ -1,4 +1,4 @@
-# Gnome time based mojave wallpaper
+# Gnome time based mojave wallpaper with real scheludes
 
 Mojave desert wallpaper useable as gnome background which changes during the day/night. 
 Real scheludes with twenty minutes transitions.
