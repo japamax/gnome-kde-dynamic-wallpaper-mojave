@@ -48,9 +48,10 @@ chmod 755 /usr/share/dynamicwallpapers/mojave/images &&
 chmod 644 /usr/share/dynamicwallpapers/mojave/images/*
 ```
 
-2) Link `mojave` directory from `/usr/share/dynamicwallpapers` to `/usr/share/backgrounds/gnome` by running the following as the root user:
+2) Link `mojave` directory from `/usr/share/dynamicwallpapers` to `/usr/share/backgrounds/macOS` by running the following as the root user:
 ```
-ln -s /usr/share/dynamicwallpapers/mojave/Images /usr/share/backgrounds/gnome/mojave
+mkdir -p /usr/share/backgrounds/macOS &&
+ln -s /usr/share/dynamicwallpapers/mojave/Images /usr/share/backgrounds/macOS/mojave
 ```
 
 3) Copy `mojave.json` from this repo  to `/usr/share/dynamicwallpapers/mojave/metadata.json` and make it readable by running the following as the root user:
@@ -59,10 +60,10 @@ cp mojave.json /usr/share/dynamicwallpapers/mojave/metadata.json &&
 chmod 644 /usr/share/dynamicwallpapers/mojave/metadata.json
 ```
 
-4) Copy `mojave-timed.xml` from this repo  to `/usr/share/backgrounds/gnome` and make it readable by running the following as the root user:
+4) Copy `mojave-timed.xml` from this repo  to `/usr/share/backgrounds/macOS` and make it readable by running the following as the root user:
 ```
-cp mojave-timed.xml /usr/share/backgrounds/gnome/mojave-timed.xml && 
-chmod 644 /usr/share/backgrounds/gnome/mojave-timed.xml
+cp mojave-timed.xml /usr/share/backgrounds/macOS/mojave-timed.xml && 
+chmod 644 /usr/share/backgrounds/macOS/mojave-timed.xml
 ```
 5) Copy `mojave.xml` from this repo  to `/usr/share/gnome-background-properties` and make it readable by running the following as the root user:
 ```

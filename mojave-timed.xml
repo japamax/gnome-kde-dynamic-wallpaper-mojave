@@ -12,177 +12,177 @@
 <!-- 00:00 -->
 	<static>
 		<duration>9000</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0000.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0000.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0000.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0300.jpg</to>    
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0000.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0300.jpg</to>    
 	</transition>
 
 <!-- 03:00 -->
 	<static>
 		<duration>9000</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0300.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0300.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0300.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0600.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0300.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0600.jpg</to>
 	</transition>
 
 <!-- 06:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0600.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0600.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0600.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0700.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0600.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0700.jpg</to>
 	</transition>
 
 <!-- 07:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0700.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0700.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0700.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0800.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0700.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0800.jpg</to>
 	</transition>
 
 <!-- 08:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0800.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0800.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0800.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0900.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0800.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0900.jpg</to>
 	</transition>
 
 <!-- 09:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0900.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0900.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0900.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1000.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0900.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1000.jpg</to>
 	</transition>
 
 <!-- 10:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1000.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1000.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1000.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1100.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1000.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1100.jpg</to>
 	</transition>
 
 <!-- 11:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1100.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1100.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1100.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1200.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1100.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1200.jpg</to>
 	</transition>
 
 <!-- 12:00 -->
 	<static>
 		<duration>5400</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1200.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1200.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1200.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1400.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1200.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1400.jpg</to>
 	</transition>
 
 <!-- 14:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1400.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1400.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1400.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1500.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1400.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1500.jpg</to>
 	</transition>
 
 <!-- 15:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1500.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1500.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1500.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1600.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1500.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1600.jpg</to>
 	</transition>
 
 <!-- 16:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1600.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1600.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1600.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1700.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1600.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1700.jpg</to>
 	</transition>
 
 <!-- 17:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1700.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1700.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1700.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1800.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1700.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1800.jpg</to>
 	</transition>
 
 <!-- 18:00 -->
 	<static>
 		<duration>1800</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1800.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1800.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1800.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1900.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1800.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1900.jpg</to>
 	</transition>
 
 <!-- 19:00 -->
 	<static>
 		<duration>5400</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1900.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1900.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-1900.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-2100.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-1900.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-2100.jpg</to>
 	</transition>
 
 <!-- 21:00 -->
 	<static>
 		<duration>9000</duration>
-		<file>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-2100.jpg</file>
+		<file>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-2100.jpg</file>
 	</static>
 	<transition type="overlay">
 		<duration>1800</duration>
-		<from>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-2100.jpg</from>
-		<to>/usr/share/backgrounds/gnome/mojave/mojave_dynamic-0000.jpg</to>
+		<from>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-2100.jpg</from>
+		<to>/usr/share/backgrounds/macOS/mojave/mojave_dynamic-0000.jpg</to>
 	</transition>
 
 </background>

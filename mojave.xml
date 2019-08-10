@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Mojave time-based background</name>
-    <filename>/usr/share/backgrounds/gnome/mojave-timed.xml</filename>
+    <filename>/usr/share/backgrounds/macOS/mojave-timed.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
