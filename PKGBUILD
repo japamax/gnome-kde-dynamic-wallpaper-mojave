@@ -35,7 +35,7 @@ pkgver() {
  
  package_dynamic-wallpaper-mojave-kde-git() {
 	depends=('plasma5-wallpapers-dynamic>=2.3' dynamic-wallpaper-mojave-images-git)
-	pkgdesc="Azimuth Elevation based KDE macOS Mojave wallpaper"
+	pkgdesc="Azimuth Elevation based / Time based KDE macOS Mojave wallpaper"
 	install=dynamic-wallpaper-mojave-kde-git.install
 	cd "${srcdir}/${_gitname}"
 	install -dm755 "${pkgdir}/usr/share/dynamicwallpapers/mojave-timed/contents"
