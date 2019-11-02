@@ -1,4 +1,4 @@
-# Time based GNOME macOS Mojave wallpaper with real scheludes</br>& Azimuth Elevation based KDE macOS Mojave wallpaper
+# Time based GNOME macOS Mojave wallpaper with real scheludes</br>& Azimuth Elevation based / Time based KDE macOS Mojave wallpaper
 
 Mojave dynamic wallpaper is 16 based images wallpaper.</br>
 Mojave dynamic wallpaper is useable as Gnome/KDE background which changes during the day/night.</br>
