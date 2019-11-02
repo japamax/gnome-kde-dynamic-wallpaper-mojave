@@ -3,7 +3,8 @@
 Mojave dynamic wallpaper is 16 based images wallpaper.</br>
 Mojave dynamic wallpaper is useable as Gnome/KDE background which changes during the day/night.</br>
 For Gnome, it's a timed based wallpaper with real scheludes with 30 minutes transitions.</br>
-For KDE, it's a Azimuth Elevation wallpaper based on real Azimuth Elevation of the Sun for the Mojave Kelso Dunes on 21/06/2019.</br></br>
+For KDE, the 1st version is a Azimuth Elevation wallpaper based on real Azimuth Elevation of the Sun for the Mojave Kelso Dunes on 21/06/2019.</br></br>
+For KDE, the 2nd version is  a timed based wallpaper with real scheludes .</br></br>
 
 
 <p align="center">
@@ -38,34 +39,49 @@ makepkg -si
 ```
 
 ## Users of other distros
-Users of other distros can manually complete these 5 steps:
+Users of other distros can manually complete these 7 steps:
 
-1) Copy `mojave` directory from this repo  to `/usr/share/dynamicwallpapers/mojave/images` and make it readable by running the following as the root user:
+1) Copy `mojave` directory from this repo  to `/usr/share/dynamicwallpapers/mojave-solar/contents/images` and make it readable by running the following as the root user:
 ```
-mkdir -p /usr/share/dynamicwallpapers/mojave/images && 
-cp mojave/* /usr/share/dynamicwallpapers/mojave/images && 
-chmod 755 /usr/share/dynamicwallpapers/mojave/images && 
-chmod 644 /usr/share/dynamicwallpapers/mojave/images/*
+mkdir -p /usr/share/dynamicwallpapers/mojave-solar/contents/images && 
+cp mojave/* /usr/share/dynamicwallpapers/mojave-solar/contents/images && 
+chmod 755 /usr/share/dynamicwallpapers/mojave-solar/contents/images && 
+chmod 644 /usr/share/dynamicwallpapers/mojave-solar/contents/images/*
 ```
 
-2) Link `mojave` directory from `/usr/share/dynamicwallpapers` to `/usr/share/backgrounds/macOS` by running the following as the root user:
+2) Create `/usr/share/dynamicwallpapers/mojave-timed/contents/images` and make it readable by running the following as the root user:
+```
+mkdir -p /usr/share/dynamicwallpapers/mojave-timed/contents && 
+chmod 755 /usr/share/dynamicwallpapers/mojave-timed/contents  && 
+ln -s /usr/share/dynamicwallpapers/mojave-solar/contents/images /usr/share/dynamicwallpapers/mojave-timed/contents/images 
+```
+
+
+3) Link `mojave` directory from `/usr/share/dynamicwallpapers` to `/usr/share/backgrounds/macOS` by running the following as the root user:
 ```
 mkdir -p /usr/share/backgrounds/macOS &&
-ln -s /usr/share/dynamicwallpapers/mojave/Images /usr/share/backgrounds/macOS/mojave
+ln -s /usr/share/dynamicwallpapers/mojave-solar/contents/images /usr/share/backgrounds/macOS/mojave
 ```
 
-3) Copy `mojave.json` from this repo  to `/usr/share/dynamicwallpapers/mojave/metadata.json` and make it readable by running the following as the root user:
+4) Copy `mojave-solar.json` from this repo  to `/usr/share/dynamicwallpapers/mojave-solar/metadata.json` and make it readable by running the following as the root user:
 ```
-cp mojave.json /usr/share/dynamicwallpapers/mojave/metadata.json && 
-chmod 644 /usr/share/dynamicwallpapers/mojave/metadata.json
+cp mojave-solar.json /usr/share/dynamicwallpapers/mojave-solar/metadata.json && 
+chmod 644 /usr/share/dynamicwallpapers/mojave-solar/metadata.json
 ```
 
-4) Copy `mojave-timed.xml` from this repo  to `/usr/share/backgrounds/macOS` and make it readable by running the following as the root user:
+5) Copy `mojave-timed.json` from this repo  to `/usr/share/dynamicwallpapers/mojave-timed/metadata.json` and make it readable by running the following as the root user:
+```
+cp mojave-timed.json /usr/share/dynamicwallpapers/mojave-timed/metadata.json && 
+chmod 644 /usr/share/dynamicwallpapers/mojave-timed/metadata.json
+```
+
+6) Copy `mojave-timed.xml` from this repo  to `/usr/share/backgrounds/macOS` and make it readable by running the following as the root user:
 ```
 cp mojave-timed.xml /usr/share/backgrounds/macOS/mojave-timed.xml && 
 chmod 644 /usr/share/backgrounds/macOS/mojave-timed.xml
 ```
-5) Copy `mojave.xml` from this repo  to `/usr/share/gnome-background-properties` and make it readable by running the following as the root user:
+
+7) Copy `mojave.xml` from this repo  to `/usr/share/gnome-background-properties` and make it readable by running the following as the root user:
 ```
 mkdir -p /usr/share/gnome-background-properties && 
 cp mojave.xml /usr/share/gnome-background-properties/mojave.xml && 

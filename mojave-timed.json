@@ -1,0 +1,83 @@
+{
+"KPlugin": {
+        "Authors": [
+            {
+                "Email": "christophe.lavie@laposte.net",
+                "Name": "Christophe LAVIE"
+            }
+        ],
+        "Id": "mojave-timed",
+        "License": "LGPLv3",
+        "Name": "Mojave Timed Dynamic Wallpaper"
+    },
+ "Wallpaper": {
+   "Preview": "mojave_dynamic-1200.jpg",
+   "Type": "timed",    
+   "MetaData": [
+        {
+          "Time": 0,
+          "FileName": "mojave_dynamic-0000.jpg"
+        },
+        {
+          "Time": 0.125,
+          "FileName": "mojave_dynamic-0300.jpg"
+        },
+        {
+          "Time": 0.250,
+          "FileName": "mojave_dynamic-0600.jpg"
+        },
+        {
+          "Time": 0.292,
+          "FileName": "mojave_dynamic-0700.jpg"
+        },
+        {
+          "Time": 0.333,
+          "FileName": "mojave_dynamic-0800.jpg"
+        },
+        {
+          "Time": 0.375,
+          "FileName": "mojave_dynamic-0900.jpg"
+        },
+        {
+          "Time": 0.417,
+          "FileName": "mojave_dynamic-1000.jpg"
+        },
+        {
+          "Time": 0.485,
+          "FileName": "mojave_dynamic-1100.jpg"
+        },
+        {
+          "Time": 0.500,
+          "FileName": "mojave_dynamic-1200.jpg"
+        },
+        {
+          "Time": 0.583,
+          "FileName": "mojave_dynamic-1400.jpg"
+        },
+        {
+          "Time": 0.625,
+          "FileName": "mojave_dynamic-1500.jpg"
+        },
+        {
+          "Time": 0.666,
+          "FileName": "mojave_dynamic-1600.jpg"
+        },
+        {
+          "Time": 0.708,
+          "FileName": "mojave_dynamic-1700.jpg"
+        },
+        {
+          "Time": 0.750,
+          "FileName": "mojave_dynamic-1800.jpg"
+        },
+        {
+          "Time": 0.792,
+          "FileName": "mojave_dynamic-1900.jpg"
+        },
+        {
+          "Time": 0.875,
+          "FileName": "mojave_dynamic-2100.jpg"
+        }
+      ]
+	}	
+}

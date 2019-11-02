@@ -1,0 +1,99 @@
+{
+ "KPlugin": {
+        "Authors": [
+            {
+                "Email": "christophe.lavie@laposte.net",
+                "Name": "Christophe LAVIE"
+            }
+        ],
+        "Id": "mojave-solar",
+        "License": "LGPLv3",
+        "Name": "Mojave Solar Dynamic Wallpaper"
+    },
+ "Wallpaper": {
+   "Preview": "mojave_dynamic-1200.jpg",
+   "Type": "solar",    
+   "MetaData": [
+        {
+          "Elevation": -30.71,
+          "Azimuth": -11.9,
+          "FileName": "mojave_dynamic-0000.jpg"
+        },
+        {
+          "Elevation": -23.41,
+          "Azimuth": 33.84,
+          "FileName": "mojave_dynamic-0300.jpg"
+        },
+        {
+          "Elevation": 4.87,
+          "Azimuth": 64.58,
+          "FileName": "mojave_dynamic-0600.jpg"
+        },
+        {
+          "Elevation": 16.2,
+          "Azimuth": 72.36,
+          "FileName": "mojave_dynamic-0700.jpg"
+        },
+        {
+          "Elevation": 28.1,
+          "Azimuth": 79.77,
+          "FileName": "mojave_dynamic-0800.jpg"
+        },
+        {
+          "Elevation": 40.3,
+          "Azimuth": 87.45,
+          "FileName": "mojave_dynamic-0900.jpg"
+        },
+        {
+          "Elevation": 52.58,
+          "Azimuth": 96.52,
+          "FileName": "mojave_dynamic-1000.jpg"
+        },
+        {
+          "Elevation": 64.55,
+          "Azimuth": 109.71,
+          "FileName": "mojave_dynamic-1100.jpg"
+        },
+        {
+          "Elevation": 74.98,
+          "Azimuth": 136.73,
+          "FileName": "mojave_dynamic-1200.jpg"
+        },
+        {
+          "Elevation": 70.02,
+          "Azimuth": 240.04,
+          "FileName": "mojave_dynamic-1400.jpg"
+        },
+        {
+          "Elevation": 58.52,
+          "Azimuth": 257.85,
+          "FileName": "mojave_dynamic-1500.jpg"
+        },
+        {
+          "Elevation": 46.32,
+          "Azimuth": 268.39,
+          "FileName": "mojave_dynamic-1600.jpg"
+        },
+        {
+          "Elevation": 34.05,
+          "Azimuth": 276.55,
+          "FileName": "mojave_dynamic-1700.jpg"
+        },
+        {
+          "Elevation": 21.97,
+          "Azimuth": 284.00,
+          "FileName": "mojave_dynamic-1800.jpg"
+        },
+        {
+          "Elevation": 10.31,
+          "Azimuth": 291.53,
+          "FileName": "mojave_dynamic-1900.jpg"
+        },
+        {
+          "Elevation": -11.02,
+          "Azimuth": 309.05,
+          "FileName": "mojave_dynamic-2100.jpg"
+        }
+      ]
+	}
+}
