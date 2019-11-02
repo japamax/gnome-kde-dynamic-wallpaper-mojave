@@ -25,7 +25,8 @@ For KDE, the 2nd version is  a timed based wallpaper with real scheludes.</br></
 ## Gnome
 None but you must sync your system clock time (presented both in local time and UTC) as well as the RTC (hardware clock).
 ## KDE
-Select "Dynamic" wallpaper type, put your real coordinates and your timer for thz solar version.
+Select "Dynamic" wallpaper type, put your real coordinates and your timer for the solar version.
+You must sync your system clock time (presented both in local time and UTC) as well as the RTC (hardware clock) for the timed version.
 
 
 # Installation
