@@ -3,8 +3,8 @@
 Mojave dynamic wallpaper is 16 based images wallpaper.</br>
 Mojave dynamic wallpaper is useable as Gnome/KDE background which changes during the day/night.</br>
 For Gnome, it's a timed based wallpaper with real scheludes with 30 minutes transitions.</br>
-For KDE, the 1st version is a Azimuth Elevation wallpaper based on real Azimuth Elevation of the Sun for the Mojave Kelso Dunes on 21/06/2019.</br></br>
-For KDE, the 2nd version is  a timed based wallpaper with real scheludes .</br></br>
+For KDE, the 1st version is a Azimuth Elevation wallpaper based on real Azimuth Elevation of the Sun for the Mojave Kelso Dunes on 21/06/2019.</br>
+For KDE, the 2nd version is  a timed based wallpaper with real scheludes.</br></br>
 
 
 <p align="center">
@@ -25,7 +25,7 @@ For KDE, the 2nd version is  a timed based wallpaper with real scheludes .</br><
 ## Gnome
 None but you must sync your system clock time (presented both in local time and UTC) as well as the RTC (hardware clock).
 ## KDE
-Select "Dynamic" wallpaper type, put your real coordinates and your timer.
+Select "Dynamic" wallpaper type, put your real coordinates and your timer for thz solar version.
 
 
 # Installation
